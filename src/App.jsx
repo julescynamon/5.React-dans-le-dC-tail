@@ -1,9 +1,9 @@
-import Container from "./lessons/13.useReducer/Container";
+import Validation from "./lessons/20.Validation/Validation";
 
 function App() {
   return (
-    <div className="main-content">
-      <Container />
+    <div className="min-h-screen bg-slate-700 pt-10">
+      <Validation />
     </div>
   );
 }
